@@ -1,7 +1,7 @@
 # Practica LP mini J
 
 ## Descripció 
-Aquest programa permet l'execucció d'un interpret reduit de G que anomenarem ``mini j`` mitjançant l'execucció de ``g.py`` i la gramaticà definida a ``g.g4``.<br>
+Aquest programa permet l'execucció d'un interpret reduit de J que anomenarem ``mini j`` mitjançant l'execucció de ``g.py`` i la gramaticà definida a ``g.g4``.<br>
 ## Decisions Preses
 
 Al llarg de la creació d’aquest intèrpret vaig haver de prendre una decisió molt important:  
