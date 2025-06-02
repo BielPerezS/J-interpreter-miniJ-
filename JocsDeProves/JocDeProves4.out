@@ -1,0 +1,9 @@
+Error ^ : Integers to negative integer powers are not allowed.
+Error + : S'espera que [2 8] i [-2 10  3] tinguin la mateixa mida
+Error * : S'espera que [2 3 4] i [1 2] tinguin la mateixa mida
+Error Select : [ 0 10  2] no pot tenir elements mes grans que el size de L2: 3
+Error # mask : S'espera que [1 0 1 1] i [1 2 3] tinguin la mateixa mida
+Error i. : S'espera un array de mida exctament 1 ==> Mida: 2
+
+Error i. : S'espera un numero estrictament positiu ==> Valor: -5
+
